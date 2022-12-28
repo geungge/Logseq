@@ -12,4 +12,6 @@
 	  git branch -M main
 	  git push -u origin main
 - 확인
-	- logseq에서 고친후
+	- logseq에서 고친후 commit 을 안하고 바로 push 해도 되네.. 정상인가?
+-
+- 자동저장은
