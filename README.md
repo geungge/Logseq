@@ -1,1 +1,2 @@
 # logseq
+easy to edit
