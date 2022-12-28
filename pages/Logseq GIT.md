@@ -13,6 +13,6 @@
 	  git push -u origin main
 - 확인
 	- logseq에서 고친후 commit 을 안하고 바로 push 해도 되네.. 정상인가?
-	- logseq 설정을 enable 하면 commit 까지는 자동으로 하는 것 같다 ->
+	- logseq 설정을 enable 하면 commit 까지는 자동으로 하는 것 같다 -> 백업하고자 할 때 git push 만 하면 될 것 같으다
 -
 -
