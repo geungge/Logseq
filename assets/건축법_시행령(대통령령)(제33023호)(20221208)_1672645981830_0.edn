@@ -1,1 +1,1 @@
-{:highlights [], :extra {:page 17}}
+{:highlights [{:id #uuid "63b28d99-8693-4698-84f2-b04ea6ad5c4b", :page 30, :position {:bounding {:x1 91.14630126953125, :y1 442.703125, :x2 189.61167907714844, :y2 460.703125, :width 797.0000000000001, :height 1127.855462184874}, :rects ({:x1 91.14630126953125, :y1 442.703125, :x2 189.61167907714844, :y2 460.703125, :width 797.0000000000001, :height 1127.855462184874}), :page 30}, :content {:text "직통계단의 설치"}, :properties {:color "green"}}], :extra {:page 16}}

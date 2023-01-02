@@ -1,1 +1,1 @@
-{:highlights [], :extra {:page 19}}
+{:highlights [{:id #uuid "63b28e37-8b9b-4c9e-b003-1e5f60a15c18", :page 7, :position {:bounding {:x1 91.14604949951172, :y1 223.03125, :x2 216.3796844482422, :y2 241.03125, :width 797.0000000000001, :height 1127.855462184874}, :rects ({:x1 91.14604949951172, :y1 223.03125, :x2 216.3796844482422, :y2 241.03125, :width 797.0000000000001, :height 1127.855462184874}), :page 7}, :content {:text "방화구획의 설치기준"}, :properties {:color "green"}}], :extra {:page 7}}
