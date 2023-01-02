@@ -1,1 +1,1 @@
-{:highlights [], :extra {:page 1}}
+{:highlights [{:id #uuid "63aef3e7-6dc1-47dd-a12c-7ca05e4248e5", :page 1, :position {:bounding {:x1 211.8984375, :y1 77.0859375, :x2 254.4972686767578, :y2 91.0859375, :width 528, :height 746.2991596638656}, :rects ({:x1 211.8984375, :y1 77.0859375, :x2 254.4972686767578, :y2 91.0859375, :width 528, :height 746.2991596638656}), :page 1}, :content {:text "소방시설"}, :properties {:color "green"}}], :extra {:page 1}}

@@ -25,3 +25,11 @@
 	- ((63ab977b-8f1f-4a41-9809-0329d231840f))
 -
 -
+- 쿼리
+	- [[logseq] 쿼리로 데이터 검색하기 (luran.me)](https://luran.me/594)
+-
+- 임베디드  `{{embed (())}}`
+	- [Page and block embeds (logseq.com)](https://docs.logseq.com/#/page/page%20and%20block%20embeds)
+	- {{embed ((63ae83e2-9c15-4f17-aad2-a5aaef4d705f))}}
+- 링크(레퍼런스) : `(())`
+	- [Page and block references (logseq.com)](https://docs.logseq.com/#/page/page%20and%20block%20references)

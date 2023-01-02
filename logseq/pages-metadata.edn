@@ -1,6 +1,6 @@
-[{:block/name "1 기계실기 (유체역학 업로드 자료)",
-  :block/created-at 1667555320376,
-  :block/updated-at 1667555320376}
+[{:block/name "63ae83e2-9c15-4f17-aad2-a5aaef4d705f",
+  :block/created-at 1672408780147,
+  :block/updated-at 1672408780147}
  {:block/name "a",
   :block/created-at 1667284477753,
   :block/updated-at 1667284477753}
@@ -22,6 +22,12 @@
  {:block/name "contents",
   :block/created-at 1667437706096,
   :block/updated-at 1667437706096}
+ {:block/name "dec 28th, 2022",
+  :block/created-at 1672408759922,
+  :block/updated-at 1672408759922}
+ {:block/name "dec 30th, 2022",
+  :block/created-at 1672408760169,
+  :block/updated-at 1672408760169}
  {:block/name "doing",
   :block/created-at 1667284477753,
   :block/updated-at 1667284477753}
@@ -37,6 +43,48 @@
  {:block/name "file-path",
   :block/created-at 1667521606234,
   :block/updated-at 1667521606234}
+ {:block/name
+  "hls__[별표_3]_소방용품(제6조_관련)(소방시설_설치_및_관리에_관한_법률_시행령)_1672210686598_0",
+  :block/created-at 1672408770358,
+  :block/updated-at 1672408770358}
+ {:block/name
+  "hls__[별표_4]_특정소방대상물의_관계인이_특정소방대상물에_설치ㆍ관리해야_하는_소방시설의_종류(제11조_관련)(소방시설_설치_및_관리에_관한_법률_시행령)_1672210693527_0",
+  :block/created-at 1672408779017,
+  :block/updated-at 1672408779017}
+ {:block/name
+  "hls__[별표_5]_특정소방대상물의_소방시설_설치의_면제_기준(제14조_관련)(소방시설_설치_및_관리에_관한_법률_시행령)_1672210701105_0",
+  :block/created-at 1672408774504,
+  :block/updated-at 1672408774504}
+ {:block/name
+  "hls__[별표_6]_소방시설을_설치하지_않을_수_있는_특정소방대상물_및_소방시설의_범위(제16조_관련)(소방시설_설치_및_관리에_관한_법률_시행령)_1672210707728_0",
+  :block/created-at 1672408771422,
+  :block/updated-at 1672408771422}
+ {:block/name
+  "hls__[별표_7]_수용인원의_산정_방법(제17조_관련)(소방시설_설치_및_관리에_관한_법률_시행령)_1672210714427_0",
+  :block/created-at 1672408773006,
+  :block/updated-at 1672408773006}
+ {:block/name
+  "hls__[별표_8]_임시소방시설의_종류와_설치기준_등(제18조제2항_및_제3항_관련)(소방시설_설치_및_관리에_관한_법률_시행령)_1672210720573_0",
+  :block/created-at 1672408776721,
+  :block/updated-at 1672408776721}
+ {:block/name "hls__소방기본법(법률)(제18523호)(20221201)_1672390257872_0",
+  :block/created-at 1672408793670,
+  :block/updated-at 1672408793670}
+ {:block/name
+  "hls__소방시설_설치_및_관리에_관한_법률(법률)(제18661호)(20221201)_1672207479648_0",
+  :block/created-at 1672408777860,
+  :block/updated-at 1672408777860}
+ {:block/name
+  "hls__소방시설_설치_및_관리에_관한_법률_시행령(대통령령)(제33004호)(20221201)_1672207494564_0",
+  :block/created-at 1672408770258,
+  :block/updated-at 1672408770258}
+ {:block/name "hls__소방시설공사업법(법률)(제18522호)(20221201)_1672233758858_0",
+  :block/created-at 1672408783892,
+  :block/updated-at 1672408783892}
+ {:block/name
+  "hls__소방시설공사업법_시행령(대통령령)(제33004호)(20221201)_1672233785840_0",
+  :block/created-at 1672408768168,
+  :block/updated-at 1672408768168}
  {:block/name "hls__스프링클러설비의_화재안전기준(nfsc_103)_1667525749123_0",
   :block/created-at 1667525794772,
   :block/updated-at 1667525794772}
@@ -46,24 +94,47 @@
  {:block/name "hls__옥외소화전설비의_화재안전기준(nfsc_109)_1667524909508_0",
   :block/created-at 1667524922417,
   :block/updated-at 1667524922417}
- {:block/name "hls__해설서_1권_1667550853014_0",
-  :block/created-at 1667550971101,
-  :block/updated-at 1667550971101}
+ {:block/name "hls__위험물_[별표_17]_소화설비¸_경보설비_및_피난설비의_기준_1672392126625_0",
+  :block/created-at 1672408789262,
+  :block/updated-at 1672408789262}
+ {:block/name "hls__위험물령_[별표_1]_위험물_및_지정수량_1672392438095_0",
+  :block/created-at 1672408787597,
+  :block/updated-at 1672408787597}
+ {:block/name "hls__위험물안전관리법(법률)(제18522호)(20221201)_1672233695897_0",
+  :block/created-at 1672408797452,
+  :block/updated-at 1672408797452}
+ {:block/name
+  "hls__위험물안전관리법_시행령(대통령령)(제33005호)(20221201)_1672233731020_0",
+  :block/created-at 1672408781333,
+  :block/updated-at 1672408781333}
+ {:block/name
+  "hls__화재의_예방_및_안전관리에_관한_법률(법률)(제18523호)(20221201)_1672233640266_0",
+  :block/created-at 1672408767027,
+  :block/updated-at 1672408767027}
  {:block/name "in-progress",
   :block/created-at 1667284477753,
   :block/updated-at 1667284477753}
  {:block/name "later",
   :block/created-at 1667284477753,
   :block/updated-at 1667284477753}
- {:block/name "nov 28th, 2022",
-  :block/created-at 1669600460752,
-  :block/updated-at 1669600460752}
+ {:block/name "logseq git",
+  :block/created-at 1672408759916,
+  :block/updated-at 1672408759916}
  {:block/name "nov 4th, 2022",
   :block/created-at 1667520762789,
   :block/updated-at 1667525749676}
  {:block/name "now",
   :block/created-at 1667284477753,
   :block/updated-at 1667284477753}
+ {:block/name "pdf원문",
+  :block/created-at 1672408769622,
+  :block/updated-at 1672408769622}
+ {:block/name "project: learning logseq",
+  :block/created-at 1672408759913,
+  :block/updated-at 1672408759913}
+ {:block/name "readme",
+  :block/created-at 1672408757997,
+  :block/updated-at 1672408757997}
  {:block/name "todo",
   :block/created-at 1667284477753,
   :block/updated-at 1667284477753}
@@ -73,9 +144,24 @@
  {:block/name "waiting",
   :block/created-at 1667284477753,
   :block/updated-at 1667284477753}
- {:block/name "스프링클러설비의 화재안전기준(nfsc 103)",
-  :block/created-at 1667554593952,
-  :block/updated-at 1667554826257}
+ {:block/name "소방법규",
+  :block/created-at 1672408763050,
+  :block/updated-at 1672408763050}
+ {:block/name "소방법규_공사업법",
+  :block/created-at 1672408762836,
+  :block/updated-at 1672408762836}
+ {:block/name "소방법규_기본법",
+  :block/created-at 1672408762796,
+  :block/updated-at 1672409066264}
+ {:block/name "소방법규_시설법",
+  :block/created-at 1672408762804,
+  :block/updated-at 1672408762804}
+ {:block/name "소방법규_위험물관리법",
+  :block/created-at 1672408762846,
+  :block/updated-at 1672408762846}
+ {:block/name "소방법규_화재예방법",
+  :block/created-at 1672408762819,
+  :block/updated-at 1672408762819}
  {:block/name "화재안전기준",
   :block/created-at 1667524828591, 
   :block/updated-at 1667526022372}]
