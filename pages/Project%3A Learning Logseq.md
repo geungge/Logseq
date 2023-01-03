@@ -33,3 +33,7 @@
 	- {{embed ((63ae83e2-9c15-4f17-aad2-a5aaef4d705f))}}
 - 링크(레퍼런스) : `(())`
 	- [Page and block references (logseq.com)](https://docs.logseq.com/#/page/page%20and%20block%20references)
+-
+- 목차
+	- '{{renderer :tocgen, [[]], 2}}'
+-
