@@ -1,1 +1,1 @@
-{:highlights [], :extra {:page 4}}
+{:highlights [{:id #uuid "63b3f89d-0524-4580-9de4-ca9b3af497bc", :page 9, :position {:bounding {:x1 99.55653381347656, :y1 828.921875, :x2 333.57464599609375, :y2 846.921875, :width 800.0000000000001, :height 1132.1008403361345}, :rects ({:x1 99.55653381347656, :y1 828.921875, :x2 333.57464599609375, :y2 846.921875, :width 800.0000000000001, :height 1132.1008403361345}), :page 9}, :content {:text "소방시설등의 자체점검 결과의 조치 등"}, :properties {:color "green"}}], :extra {:page 10}}

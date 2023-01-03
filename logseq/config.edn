@@ -208,7 +208,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["소방원론"]
+ :favorites ["PDF_NFTC" "PDF원문" "소방전기일반" "소방전기구조및원리" "소방법규" "소방원론"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
