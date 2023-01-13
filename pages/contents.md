@@ -1,2 +1,3 @@
-- {{query "1.3"}}
+- {{query "건축허가"}}
+  query-table:: false
 -
