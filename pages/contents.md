@@ -1,3 +1,3 @@
-- {{query "건축허가"}}
+- {{query "경계지구"}}
   query-table:: false
 -
