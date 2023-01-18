@@ -1,3 +1,3 @@
-- {{query "경계지구"}}
+- {{query "비상조명등"}}
   query-table:: false
 -
