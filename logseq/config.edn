@@ -208,7 +208,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["소방설비전기기사" "pdf_법률" "PDF_NFTC" "소방전기일반" "소방전기구조및원리" "소방법규" "소방원론"]
+ :favorites ["소방전기필기" "소방설비전기기사" "pdf_법률" "PDF_NFTC" "소방전기일반" "소방전기구조및원리" "소방법규" "소방원론"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -298,4 +298,5 @@
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy-MM-dd"
  :graph/settings {:orphan-pages? false, :excluded-pages? true, :builtin-pages? false, :journal? false}
+ :ui/show-brackets? false
  }

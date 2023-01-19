@@ -1,3 +1,3 @@
-- {{query "비상조명등"}}
+- {{query "위험도"}}
   query-table:: false
 -
