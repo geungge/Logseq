@@ -1,3 +1,3 @@
-- {{query "과산화칼륨"}}
+- {{query "3일"}}
   query-table:: false
 -
