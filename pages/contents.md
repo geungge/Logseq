@@ -1,3 +1,3 @@
-- {{query "3일"}}
+- {{query "상주"}}
   query-table:: false
 -
