@@ -1,3 +1,1 @@
-- {{query "주요구조부"}}
-  query-table:: false
--
+- {{query "절연저항"}}
