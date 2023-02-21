@@ -301,4 +301,5 @@
  :ui/show-brackets? false
  :ui/show-full-blocks? false
  :editor/preferred-pasting-file? false
+ :feature/enable-journals? false
  }
