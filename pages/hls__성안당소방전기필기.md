@@ -66,3 +66,10 @@ file-path:: G:/내 드라이브/소방/소방기사/성안당소방전기기사/
   hl-page:: 684
   hl-color:: red
   id:: 63f3a24b-bc30-471a-9e30-7a8ccf268cb6
+- [:span]
+  ls-type:: annotation
+  hl-page:: 138
+  hl-color:: yellow
+  id:: 63f5b078-fa3b-4824-b175-deb200fe1f5b
+  hl-type:: area
+  hl-stamp:: 1677045877920
