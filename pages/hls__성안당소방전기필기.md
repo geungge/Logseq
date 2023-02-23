@@ -73,3 +73,48 @@ file-path:: G:/내 드라이브/소방/소방기사/성안당소방전기기사/
   id:: 63f5b078-fa3b-4824-b175-deb200fe1f5b
   hl-type:: area
   hl-stamp:: 1677045877920
+- 위험물에 관한 설명으로 틀린 것은?
+  ls-type:: annotation
+  hl-page:: 505
+  hl-color:: red
+  id:: 63f6b409-05ce-40af-81ed-60162953fd52
+- 화재 및 폭발에 관한 설명으로 틀린 것은?
+  ls-type:: annotation
+  hl-page:: 505
+  hl-color:: red
+  id:: 63f6b479-4eaf-4272-82a5-e81514d39921
+- 니트로셀룰로오스 등과 같은 제트류 위험물의 연소형-------主«는?
+  ls-type:: annotation
+  hl-page:: 116
+  hl-color:: red
+  id:: 63f6b4f7-0628-4db4-8818-7d67bfaee21e
+- 니트로셀룰로오스에 대한 설명으로 틀린 것은
+  ls-type:: annotation
+  hl-page:: 524
+  hl-color:: red
+  id:: 63f6b609-cde0-424e-9c36-fab8e2e05727
+- 이산화탄소 소화설비의 적용대상이 아닌 것
+  ls-type:: annotation
+  hl-page:: 570
+  hl-color:: red
+  id:: 63f6b67f-fb9f-4246-8c16-ea11f90dc664
+- 주된 연소의 형태가 표면연소에 해당하는 물질
+  ls-type:: annotation
+  hl-page:: 618
+  hl-color:: red
+  id:: 63f6b79f-3f22-407b-97cb-f8f583088a95
+- 가연성 가스이면서도 독성 가스인 것
+  ls-type:: annotation
+  hl-page:: 88
+  hl-color:: red
+  id:: 63f6b7ec-28f2-49b6-afef-52623ccf77f9
+- 썩는 듯한 냄새가 나는 기체는
+  ls-type:: annotation
+  hl-page:: 276
+  hl-color:: red
+  id:: 63f6b845-ea71-4f70-9a8a-249c0e5b1208
+- 증점제로서 적
+  ls-type:: annotation
+  hl-page:: 354
+  hl-color:: red
+  id:: 63f6b88f-c28d-42c8-9ff3-dc7ca43a2623
