@@ -1,5 +1,5 @@
-file:: [NFTC_205_누전경보기_1672479828369_0.pdf](../assets/NFTC_205_누전경보기_1672479828369_0.pdf)
-file-path:: ../assets/NFTC_205_누전경보기_1672479828369_0.pdf
+file:: [NFTC_205_누전경보기.pdf](G:/내 드라이브/소방/소방관리사/NFTC/NFTC_205_누전경보기.pdf)
+file-path:: G:/내 드라이브/소방/소방관리사/NFTC/NFTC_205_누전경보기.pdf
 
 - 누전경보기는 다음 기준에 따라 설치
   ls-type:: annotation

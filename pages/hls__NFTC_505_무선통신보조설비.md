@@ -1,5 +1,5 @@
-file:: [NFTC_505_무선통신보조설비_1672479846386_0.pdf](../assets/NFTC_505_무선통신보조설비_1672479846386_0.pdf)
-file-path:: ../assets/NFTC_505_무선통신보조설비_1672479846386_0.pdf
+file:: [NFTC_505_무선통신보조설비.pdf](G:/내 드라이브/소방/소방관리사/NFTC/NFTC_505_무선통신보조설비.pdf)
+file-path:: G:/내 드라이브/소방/소방관리사/NFTC/NFTC_505_무선통신보조설비.pdf
 
 - 무선통신보조설비의 설치제외
   ls-type:: annotation

@@ -6158,3 +6158,18 @@ file-path:: G:/내 드라이브/소방/소방기사/성안당소방전기기사/
   id:: 63fc7ff7-643c-4129-be05-b29e13cfef11
   hl-type:: area
   hl-stamp:: 1677492213294
+- ④ 복
+  ls-type:: annotation
+  hl-page:: 365
+  hl-color:: green
+  id:: 63fcd5ff-1b61-4c64-ae61-faa8454f62d5
+- （3）
+  ls-type:: annotation
+  hl-page:: 584
+  hl-color:: green
+  id:: 63fcd621-6e2d-4f4c-9240-b3914586cd43
+- ②
+  ls-type:: annotation
+  hl-page:: 494
+  hl-color:: green
+  id:: 63fcd682-a518-4084-97a5-7275aa17c1a2

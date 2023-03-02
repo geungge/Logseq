@@ -1,5 +1,5 @@
-file:: [NFTC_102_옥내소화전설비_1672479808432_0.pdf](../assets/NFTC_102_옥내소화전설비_1672479808432_0.pdf)
-file-path:: ../assets/NFTC_102_옥내소화전설비_1672479808432_0.pdf
+file:: [NFTC_102_옥내소화전설비](G:/내 드라이브/소방/소방관리사/NFTC/NFTC_102_옥내소화전설비.pdf)
+file-path:: G:/내 드라이브/소방/소방관리사/NFTC/NFTC_102_옥내소화전설비.pdf
 
 - 가압송수장치
   ls-type:: annotation

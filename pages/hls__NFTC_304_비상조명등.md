@@ -1,5 +1,5 @@
-file:: [NFTC_304_비상조명등_1672479838645_0.pdf](../assets/NFTC_304_비상조명등_1672479838645_0.pdf)
-file-path:: ../assets/NFTC_304_비상조명등_1672479838645_0.pdf
+file:: [NFTC_304_비상조명등.pdf](G:/내 드라이브/소방/소방관리사/NFTC/NFTC_304_비상조명등.pdf)
+file-path:: G:/내 드라이브/소방/소방관리사/NFTC/NFTC_304_비상조명등.pdf
 
 - 비상조명등의 설치기준
   ls-type:: annotation
